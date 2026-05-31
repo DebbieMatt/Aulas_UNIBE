@@ -1,0 +1,6 @@
+﻿Nome,Quantidade,Componente
+"U3",1," Arduino Uno R3"
+"D2",1,"Vermelho LED"
+"D4",1,"Amarelo LED"
+"D5",1,"Verde LED"
+"R2, R3, R4",3,"470 Ω Resistor"

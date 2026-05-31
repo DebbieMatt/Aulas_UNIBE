@@ -38,7 +38,7 @@ Este projeto tem como objetivo demonstrar a importância dos sistemas de control
 
 ## 💡 Projeto 2 — Acender LED com Botão
 
-> _Detalhes do projeto serão adicionados em breve._
+**Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/iOVvH7vB9mG-copy-of-button-button/editel?returnTo=%2Fthings%2FiOVvH7vB9mG-copy-of-button-button)
 
 ### 🎯 Propósito
 
@@ -46,9 +46,15 @@ Introduzir o conceito de **entrada digital**, permitindo que o aluno compreenda 
 
 ### 🖼️ Imagem do Projeto
 
-> _Imagem do circuito será adicionada em breve._
+[![Cicuito - Acender LED com boão](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)
 
----
+### 📎 Arquivos do Projeto
+
+| Arquivo | Descrição |
+|---|---|
+| [📄 circuito botão.pdf](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito%20bot%C3%A3o.pdf) | Esquema elétrico do circuito |
+| [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/bom.csv) | Lista de componentes (Bill of Materials) |
+| [💻 codigo_botão.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/codigo_bot%C3%A3o.ino) | Código fonte Arduino |
 
 ## 🛠️ Ferramentas Utilizadas
 

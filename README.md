@@ -10,6 +10,7 @@ Aulas_UNIBE/
 ├── codigo_semafaro/                 # Projeto: Semáforo com LEDs
 ├── codigo_botao/                    # Projeto: Acender LED com botão
 ├── projeto_sensor_proximidade/      # Projeto: Sensor de proximidade
+├── projeto_luminosidade/            # Projeto: Regulagem de luminosidade
 └── README.md
 ```
 
@@ -85,11 +86,37 @@ Introduzir o uso de **sensores ultrassônicos** (como o HC-SR04), demonstrando c
 
 ---
 
+## ☀️ Projeto 4 — Regulagem de Luminosidade com Fotorresistor e Botões
+
+**Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/g0E6WHsMlL2-tremendous-amberis/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)  
+**Simulação no Wokwi:** [Abrir projeto](https://wokwi.com/projects/465583584552505345)
+
+### 🎯 Propósito
+
+Explorar o uso de **sensores analógicos** combinados com **entradas digitais**, permitindo que o aluno compreenda como o Arduino lê variações de luz ambiente por meio de um fotorresistor (LDR) e como dois botões podem ser usados para ajustar manualmente o nível de luminosidade de um LED. O projeto integra leitura analógica, controle PWM e lógica de interação com o usuário.
+
+### 🖼️ Imagens do Circuito
+
+[![Circuito - Regulador de Luminosidade](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/regulador%20de%20luminosidade.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/regulador%20de%20luminosidade.png)
+
+[![Circuito - Fotorresistor no Tinkercad](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/fotoresistor_tinkercad.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/fotoresistor_tinkercad.png)
+
+### 📎 Arquivos do Projeto
+
+| Arquivo | Descrição |
+|---|---|
+| [📄 FotoResistor.pdf](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/FotoResistor.pdf) | Esquema elétrico do circuito |
+| [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/bom.csv) | Lista de componentes (Bill of Materials) |
+| [💻 codigo_luminosidade.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/codigo_luminosidade.ino) | Código fonte Arduino |
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 - [Arduino IDE](https://www.arduino.cc/en/software) — para programação dos microcontroladores
 - [Tinkercad Circuits](https://www.tinkercad.com/) — para simulação dos circuitos online
 - [Wokwi](https://wokwi.com/) — para simulação dos circuitos online
+
 ---
 
 ## 👩‍🏫 Sobre a Disciplina

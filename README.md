@@ -6,15 +6,18 @@ Repositório com o conteúdo das aulas de **Robótica** ministradas na UNIBE. Aq
 
 ```
 Aulas_UNIBE/
-├── SLIDES DE AULA/       # Apresentações utilizadas nas aulas
-├── Projeto_Semafaro/     # Projeto: Semáforo com LEDs
-├── Projeto_LED_Botao/    # Projeto: Acender LED com botão
+├── SLIDES DE AULA/                  # Apresentações utilizadas nas aulas
+├── codigo_semafaro/                 # Projeto: Semáforo com LEDs
+├── codigo_botao/                    # Projeto: Acender LED com botão
+├── projeto_sensor_proximidade/      # Projeto: Sensor de proximidade
 └── README.md
 ```
 
 ## 📊 Slides de Aula
 
 Os slides utilizados nas aulas estão disponíveis na pasta [`SLIDES DE AULA`](https://github.com/DebbieMatt/Aulas_UNIBE/tree/7d77e0fff22c8a188ae2f9570353becf1293fe04/SLIDES%20DE%20AULA).
+
+---
 
 ## 🚦 Projeto 1 — Semáforo com LEDs (23/05)
 
@@ -36,6 +39,8 @@ Este projeto tem como objetivo demonstrar a importância dos sistemas de control
 | [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/4195dfbaa3d8316dca0135f55fec41e3b1d5bfe7/codigo_semafaro/bom.csv) | Lista de componentes (Bill of Materials) |
 | [💻 codigo_semafaro.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/4195dfbaa3d8316dca0135f55fec41e3b1d5bfe7/codigo_semafaro/codigo_semafaro.ino) | Código fonte Arduino |
 
+---
+
 ## 💡 Projeto 2 — Acender LED com Botão (30/05)
 
 **Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/iOVvH7vB9mG-copy-of-button-button/editel?returnTo=%2Fthings%2FiOVvH7vB9mG-copy-of-button-button)
@@ -44,9 +49,9 @@ Este projeto tem como objetivo demonstrar a importância dos sistemas de control
 
 Introduzir o conceito de **entrada digital**, permitindo que o aluno compreenda como um microcontrolador lê sinais externos (como o pressionamento de um botão) e responde a eles acionando uma saída (LED).
 
-### 🖼️ Imagem do Projeto
+### 🖼️ Imagem do Circuito
 
-[![Cicuito - Acender LED com boão](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)
+[![Circuito - Acender LED com Botão](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/circuito_bot%C3%A3o.png)
 
 ### 📎 Arquivos do Projeto
 
@@ -56,11 +61,33 @@ Introduzir o conceito de **entrada digital**, permitindo que o aluno compreenda 
 | [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/bom.csv) | Lista de componentes (Bill of Materials) |
 | [💻 codigo_botão.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/a4237acb9f01c7c6eff41f9243588dcd15d4d130/codigo_botao/codigo_bot%C3%A3o.ino) | Código fonte Arduino |
 
+---
+
+## 📡 Projeto 3 — Sensor de Proximidade
+
+### 🎯 Propósito
+
+Introduzir o uso de **sensores ultrassônicos** (como o HC-SR04), demonstrando como o Arduino pode medir distâncias e reagir a objetos próximos. Os alunos aprendem a trabalhar com entradas analógicas/digitais de sensores do mundo real, abrindo caminho para aplicações em robótica móvel e automação.
+
+### 🖼️ Imagem do Circuito
+
+[![Circuito - Sensor de Proximidade](https://github.com/DebbieMatt/Aulas_UNIBE/blob/791ebb4b5cb47120fea56be05ccb865ab39f623a/projeto_sensor_proximidade/sensor%20de%20proximidade.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/791ebb4b5cb47120fea56be05ccb865ab39f623a/projeto_sensor_proximidade/sensor%20de%20proximidade.png)
+
+### 📎 Arquivos do Projeto
+
+| Arquivo | Descrição |
+|---|---|
+| [📄 sensor de proximidade.pdf](https://github.com/DebbieMatt/Aulas_UNIBE/blob/791ebb4b5cb47120fea56be05ccb865ab39f623a/projeto_sensor_proximidade/sensor%20de%20proximidade.pdf) | Esquema elétrico do circuito |
+| [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/791ebb4b5cb47120fea56be05ccb865ab39f623a/projeto_sensor_proximidade/bom.csv) | Lista de componentes (Bill of Materials) |
+| [💻 sensor_de_proximidade.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/791ebb4b5cb47120fea56be05ccb865ab39f623a/projeto_sensor_proximidade/sensor_de_proximidade.ino) | Código fonte Arduino |
+
+---
+
 ## 🛠️ Ferramentas Utilizadas
 
 - [Arduino IDE](https://www.arduino.cc/en/software) — para programação dos microcontroladores
 - [Tinkercad Circuits](https://www.tinkercad.com/) — para simulação dos circuitos online
-
+- [Wokwi](https://wokwi.com/) — para simulação dos circuitos online
 ---
 
 ## 👩‍🏫 Sobre a Disciplina
@@ -68,6 +95,8 @@ Introduzir o conceito de **entrada digital**, permitindo que o aluno compreenda 
 Disciplina de **Robótica** — UNIBE  
 Professor(a): *Débora Mateus*  
 Período: *2026/1*
+
+---
 
 ## 📄 Licença
 

@@ -65,6 +65,8 @@ Introduzir o conceito de **entrada digital**, permitindo que o aluno compreenda 
 
 ## 📡 Projeto 3 — Sensor de Proximidade
 
+**Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/dxh9HIapIc6-sensor-de-proximidade/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall)
+
 ### 🎯 Propósito
 
 Introduzir o uso de **sensores ultrassônicos** (como o HC-SR04), demonstrando como o Arduino pode medir distâncias e reagir a objetos próximos. Os alunos aprendem a trabalhar com entradas analógicas/digitais de sensores do mundo real, abrindo caminho para aplicações em robótica móvel e automação.

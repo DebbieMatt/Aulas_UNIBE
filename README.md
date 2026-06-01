@@ -11,6 +11,7 @@ Aulas_UNIBE/
 ├── codigo_botao/                    # Projeto: Acender LED com botão
 ├── projeto_sensor_proximidade/      # Projeto: Sensor de proximidade
 ├── projeto_luminosidade/            # Projeto: Regulagem de luminosidade
+├── projeto_piano_bananas/           # Projeto: Piano de Bananas
 └── README.md
 ```
 
@@ -108,6 +109,28 @@ Explorar o uso de **sensores analógicos** combinados com **entradas digitais**,
 | [📄 FotoResistor.pdf](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/FotoResistor.pdf) | Esquema elétrico do circuito |
 | [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/bom.csv) | Lista de componentes (Bill of Materials) |
 | [💻 codigo_luminosidade.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/2d61e0004337e30493ce627384eb0a3c709546b3/projeto_luminosidade/codigo_luminosidade.ino) | Código fonte Arduino |
+
+---
+
+## 🍌 Projeto 5 — Piano de Bananas
+
+**Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/6HT5YuT18V7/editel)
+
+### 🎯 Propósito
+
+Demonstrar o conceito de **capacitância e leitura de entradas capacitivas**, utilizando bananas (ou qualquer objeto condutor) como teclas de um piano. O projeto explora como o Arduino pode detectar o toque humano através da condutividade elétrica do corpo, introduzindo os alunos a interações criativas e não convencionais com microcontroladores, além de conceitos de geração de som com buzzer.
+
+### 🖼️ Imagem do Circuito
+
+[![Circuito - Piano de Bananas](https://github.com/DebbieMatt/Aulas_UNIBE/blob/8090765fad2ef23a53f57af5c45a594f1675c6d0/projeto_piano_bananas/Piano%20de%20Bananas.png)](https://github.com/DebbieMatt/Aulas_UNIBE/blob/8090765fad2ef23a53f57af5c45a594f1675c6d0/projeto_piano_bananas/Piano%20de%20Bananas.png)
+
+### 📎 Arquivos do Projeto
+
+| Arquivo | Descrição |
+|---|---|
+| [📄 Piano de Bananas.pdf](https://github.com/DebbieMatt/Aulas_UNIBE/blob/8090765fad2ef23a53f57af5c45a594f1675c6d0/projeto_piano_bananas/Piano%20de%20Bananas.pdf) | Esquema elétrico do circuito |
+| [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/8090765fad2ef23a53f57af5c45a594f1675c6d0/projeto_piano_bananas/bom.csv) | Lista de componentes (Bill of Materials) |
+| [💻 codigo_piano_de_bananas.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/8090765fad2ef23a53f57af5c45a594f1675c6d0/projeto_piano_bananas/codigo_piano_de_bananas.ino) | Código fonte Arduino |
 
 ---
 

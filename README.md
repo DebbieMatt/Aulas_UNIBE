@@ -16,7 +16,7 @@ Aulas_UNIBE/
 
 Os slides utilizados nas aulas estão disponíveis na pasta [`SLIDES DE AULA`](https://github.com/DebbieMatt/Aulas_UNIBE/tree/7d77e0fff22c8a188ae2f9570353becf1293fe04/SLIDES%20DE%20AULA).
 
-## 🚦 Projeto 1 — Semáforo com LEDs
+## 🚦 Projeto 1 — Semáforo com LEDs (23/05)
 
 **Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/3i3rkc0BCs6-copy-of-semafaro-led/editel?returnTo=%2Fthings%2F3i3rkc0BCs6-copy-of-semafaro-led)
 
@@ -36,7 +36,7 @@ Este projeto tem como objetivo demonstrar a importância dos sistemas de control
 | [🧾 bom.csv](https://github.com/DebbieMatt/Aulas_UNIBE/blob/4195dfbaa3d8316dca0135f55fec41e3b1d5bfe7/codigo_semafaro/bom.csv) | Lista de componentes (Bill of Materials) |
 | [💻 codigo_semafaro.ino](https://github.com/DebbieMatt/Aulas_UNIBE/blob/4195dfbaa3d8316dca0135f55fec41e3b1d5bfe7/codigo_semafaro/codigo_semafaro.ino) | Código fonte Arduino |
 
-## 💡 Projeto 2 — Acender LED com Botão
+## 💡 Projeto 2 — Acender LED com Botão (30/05)
 
 **Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/iOVvH7vB9mG-copy-of-button-button/editel?returnTo=%2Fthings%2FiOVvH7vB9mG-copy-of-button-button)
 

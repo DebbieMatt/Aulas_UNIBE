@@ -115,6 +115,7 @@ Explorar o uso de **sensores analógicos** combinados com **entradas digitais**,
 ## 🍌 Projeto 5 — Piano de Bananas
 
 **Simulação no Tinkercad:** [Abrir projeto](https://www.tinkercad.com/things/6HT5YuT18V7/editel)
+**Referência:**[Abrir blog](https://manualmaker.com/projeto/piano-de-bananas/)
 
 ### 🎯 Propósito
 
